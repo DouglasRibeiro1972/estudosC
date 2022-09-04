@@ -13,7 +13,7 @@ int main(){
     if(emprest > (sal*0.20))
     {
 
-        printf("emprestimo não concedido");
+        printf("emprestimo não realizado");
     }else{
         printf("Emprestimo concedido");
     }
