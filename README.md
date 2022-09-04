@@ -1,0 +1,2 @@
+# estudosC
+exercícios C
