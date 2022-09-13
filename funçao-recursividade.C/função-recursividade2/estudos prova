@@ -1,0 +1,15 @@
+#include <stdio>
+#include <stdlib.h>
+
+int maior(int x, int y){
+    if(x > y){
+        maior = y;
+    }
+    return maior;
+}
+
+int main(){
+    int m= maior (5,7);
+    printf("\n maior = %d");
+    return 0
+}
