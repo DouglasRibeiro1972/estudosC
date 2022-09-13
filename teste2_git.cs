@@ -32,6 +32,6 @@ public class MyProgram
     {
         double result;
         while (!double.TryParse(Console.ReadLine(), out result));
-        return result;
+        return result
     }
 }
